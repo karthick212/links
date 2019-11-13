@@ -5,3 +5,5 @@ Apache2 config in ubuntu - https://www.digitalocean.com/community/tutorials/how-
 Xampp config in ubuntu - http://devarticles.in/linux/creating-new-virtual-host-while-using-xampp-in-ubuntu-linux/
 Running Horizontal Slider - http://sachinchoolur.github.io/lightslider/
 http://www.menucool.com/jquery-slider
+
+Hosting React website - https://stackoverflow.com/questions/39791069/create-react-app-npm-run-build-command
