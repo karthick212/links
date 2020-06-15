@@ -7,3 +7,4 @@ Running Horizontal Slider - http://sachinchoolur.github.io/lightslider/
 http://www.menucool.com/jquery-slider
 
 Hosting React website - https://stackoverflow.com/questions/39791069/create-react-app-npm-run-build-command
+404 found when refresh page - https://stackoverflow.com/questions/51357947/react-app-on-server-while-refreshing-the-page-shows-404-page/51358051
